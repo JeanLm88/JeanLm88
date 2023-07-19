@@ -6,9 +6,9 @@
   <h1 align="center"> Hello World🌎! My name is Jean! </h1>
 <div/>
   
-<div align="center">
+<h1 align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLm88&layout=compact)](https://github.com/JeanLm88/github-readme-stats)
-</div>
+</h1>
 
 ##
 ###  Contacte Me
