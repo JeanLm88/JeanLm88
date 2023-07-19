@@ -8,7 +8,7 @@
   
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLm88&layout=compact)](https://github.com/NicolasStevan/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLm88&layout=compact)](https://github.com/JeanLm88/github-readme-stats)
 </div>
 
 
