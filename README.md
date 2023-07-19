@@ -1,5 +1,5 @@
 
- <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png 2x" alt="Man Technologist on Microsoft Teams 1.0" width="40" height="40"> Today I work as IT Support, but I'm migrating to the Full Stack Development area.
+ <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png 2x" alt="Man Technologist on Microsoft Teams 1.0" width="40" height="40"> Today I work as IT Analityc, but I'm migrating to the Full Stack Development area.
 
  
 <div>
