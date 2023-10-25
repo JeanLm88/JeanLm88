@@ -8,7 +8,7 @@
 <div align="center">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLm88&layout=compact)](https://github.com/JeanLm88/github-readme-stats)
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JeanLm88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api?username=JeanLm88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
